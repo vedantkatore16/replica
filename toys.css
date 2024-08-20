@@ -195,3 +195,58 @@
     display: flex;
     flex-direction:row;
 }
+
+
+
+
+
+<h2 class="text-center service text-dark font-fam">TOP SERVICES...</h2>
+
+<div class="service-container">
+<div class="service-card">
+    <img src="./img/saving-money.png" class="service-img">
+    <h3 class="text-center">Affordable Pricing</h3>
+    <p class="text-center font-fam">
+        Keeping costs low for our customers.
+    </p>
+</div>
+<div class="service-card">
+    <img src="./img/fast-delivery.png" class="service-img">
+    <h3 class="text-center">Free Shipping</h3>
+    <p class="text-center font-fam">
+        On everything.
+    </p>
+</div>
+
+<div class="service-card">
+    <img src="./img/happy.png" class="service-img">
+    <h3 class="text-center">Affordable Pricing</h3>
+    <p class="text-center font-fam">
+        Every product is original, fresh and of high quality.
+    </p>
+</div>
+
+<div class="service-card">
+    <img src="./img/limited.png" class="service-img">
+    <h3 class="text-center">Limited Deal's</h3>
+    <p class="text-center font-fam">
+        This is your chance to grab  the prodect in low cost.
+    </p>
+</div>
+
+<div class="service-card">
+    <img src="./img/bulk.png" class="service-img">
+    <h3 class="text-center">Bulk Inquiry</h3>
+    <p class="text-center font-fam">
+        Email - lootkart@gmail.com
+    </p>
+</div>
+
+<div class="service-card">
+    <img src="./img/phone.png" class="service-img">
+    <h3 class="text-center">Give Us A Call</h3>
+    <p class="text-center font-fam">
+        Or Whatsapp on - 9658XXXXX0
+    </p>
+</div>
+                                                  <!-- sevice's end -->
