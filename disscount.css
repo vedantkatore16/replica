@@ -1,0 +1,21 @@
+.img1{
+    height: 150px;
+    width: 200px;
+    border-radius: 1800px 1800px;
+    margin-left: 10px;
+    border: 1px solid;
+    border-color: #000000;
+}
+.container2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: 40px;
+    
+}
+.p1{
+    font-size: 25px;
+    color: #01012d;
+    text-align: center;
+    text-decoration: none;
+}

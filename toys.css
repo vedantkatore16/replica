@@ -55,6 +55,7 @@
     display: flex;
     justify-content: space-evenly;
 }
+
 .reco-img{
     
         height: 250px;
@@ -205,6 +206,7 @@
     flex-direction:row;
     margin:100px ;
 }
+
 
 
 
