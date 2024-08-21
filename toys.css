@@ -195,6 +195,7 @@
     justify-content: space-around;
     display: flex;
     flex-direction:row;
+    margin:100px ;
 }
 
 
